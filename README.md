@@ -1,5 +1,11 @@
-# 🚀 Curso de Java - Digital Innovation One (DIO)
-## Módulo 01: Sintaxe Básica Java
+<h1>
+  <a>
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png">
+    Curso de Java - Digital Innovation One (DIO) <br>
+    <Strong> Módulo 01: Sintaxe Básica Java</Strong></a>
+  </a>
+</h1>
+
 
 Este repositório documenta os estudos e exercícios realizados no primeiro módulo do curso de Java da **Digital Innovation One (DIO)**, focado em estabelecer a base da sintaxe e conceitos essenciais da linguagem.
 
