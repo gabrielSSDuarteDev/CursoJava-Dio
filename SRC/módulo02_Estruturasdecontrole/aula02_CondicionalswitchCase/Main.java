@@ -4,14 +4,13 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
-import java.io.*; // Importa todas as classes de I/O necessárias para persistência
-
+import java.io.*; 
 /*
 ============================================
         1° PASSO: Definição de Enum
 ============================================
 */
-enum NivelDesempenho implements Serializable { // Enum também deve ser serializável
+enum NivelDesempenho implements Serializable {
     ALTO, MODERADO, BAIXO
 }
 
