@@ -1,10 +1,10 @@
-package módulo02_Estruturasdecontrole.aula02_CondicionalswitchCase;
+package módulo02_Estruturasdecontrole.aula02_ProjetoCompleto_AnalisadodeLinguagem;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
-import java.io.*; 
+import java.io.*;
 /*
 ============================================
         1° PASSO: Definição de Enum
